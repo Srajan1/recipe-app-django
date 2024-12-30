@@ -1,4 +1,4 @@
 # recipe-app-django
 
 ### Running the docker commands
-docker-compose run --rm app sh -c "python manage.py runserver 127.0.0.1:8000"
+docker-compose run --rm app sh -c "command which you want to run in app dir"
